@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             this.UI_Start_Btn = new System.Windows.Forms.Button();
-            this.listBox1 = new System.Windows.Forms.ListBox();
+            this.UI_Scores = new System.Windows.Forms.ListBox();
             this.SuspendLayout();
             // 
             // UI_Start_Btn
@@ -42,20 +42,20 @@
             this.UI_Start_Btn.Text = "Start";
             this.UI_Start_Btn.UseVisualStyleBackColor = true;
             // 
-            // listBox1
+            // UI_Scores
             // 
-            this.listBox1.FormattingEnabled = true;
-            this.listBox1.Location = new System.Drawing.Point(164, 51);
-            this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(245, 238);
-            this.listBox1.TabIndex = 1;
+            this.UI_Scores.FormattingEnabled = true;
+            this.UI_Scores.Location = new System.Drawing.Point(164, 64);
+            this.UI_Scores.Name = "UI_Scores";
+            this.UI_Scores.Size = new System.Drawing.Size(245, 225);
+            this.UI_Scores.TabIndex = 1;
             // 
             // NotFlappyBird
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(421, 302);
-            this.Controls.Add(this.listBox1);
+            this.Controls.Add(this.UI_Scores);
             this.Controls.Add(this.UI_Start_Btn);
             this.Name = "NotFlappyBird";
             this.Text = "Not Flappy Bird";
@@ -66,7 +66,7 @@
         #endregion
 
         private System.Windows.Forms.Button UI_Start_Btn;
-        private System.Windows.Forms.ListBox listBox1;
+        private System.Windows.Forms.ListBox UI_Scores;
     }
 }
 

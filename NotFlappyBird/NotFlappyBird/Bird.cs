@@ -26,5 +26,10 @@ namespace NotFlappyBird
         {
 
         }
+
+        public void Check()
+        {
+
+        }
     }
 }
