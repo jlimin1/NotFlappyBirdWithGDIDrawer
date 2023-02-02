@@ -1,0 +1,13 @@
+C:\Users\gogam\Documents\NotFlappyBird\NotFlappyBirdWithGDIDrawer\NotFlappyBird\NotFlappyBird\bin\Debug\NotFlappyBird.exe.config
+C:\Users\gogam\Documents\NotFlappyBird\NotFlappyBirdWithGDIDrawer\NotFlappyBird\NotFlappyBird\bin\Debug\NotFlappyBird.exe
+C:\Users\gogam\Documents\NotFlappyBird\NotFlappyBirdWithGDIDrawer\NotFlappyBird\NotFlappyBird\bin\Debug\NotFlappyBird.pdb
+C:\Users\gogam\Documents\NotFlappyBird\NotFlappyBirdWithGDIDrawer\NotFlappyBird\NotFlappyBird\bin\Debug\GDIDrawer.dll
+C:\Users\gogam\Documents\NotFlappyBird\NotFlappyBirdWithGDIDrawer\NotFlappyBird\NotFlappyBird\obj\Debug\NotFlappyBird.csproj.AssemblyReference.cache
+C:\Users\gogam\Documents\NotFlappyBird\NotFlappyBirdWithGDIDrawer\NotFlappyBird\NotFlappyBird\obj\Debug\NotFlappyBird.csproj.SuggestedBindingRedirects.cache
+C:\Users\gogam\Documents\NotFlappyBird\NotFlappyBirdWithGDIDrawer\NotFlappyBird\NotFlappyBird\obj\Debug\NotFlappyBird.NotFlappyBird.resources
+C:\Users\gogam\Documents\NotFlappyBird\NotFlappyBirdWithGDIDrawer\NotFlappyBird\NotFlappyBird\obj\Debug\NotFlappyBird.Properties.Resources.resources
+C:\Users\gogam\Documents\NotFlappyBird\NotFlappyBirdWithGDIDrawer\NotFlappyBird\NotFlappyBird\obj\Debug\NotFlappyBird.csproj.GenerateResource.cache
+C:\Users\gogam\Documents\NotFlappyBird\NotFlappyBirdWithGDIDrawer\NotFlappyBird\NotFlappyBird\obj\Debug\NotFlappyBird.csproj.CoreCompileInputs.cache
+C:\Users\gogam\Documents\NotFlappyBird\NotFlappyBirdWithGDIDrawer\NotFlappyBird\NotFlappyBird\obj\Debug\NotFlappyBird.csproj.CopyComplete
+C:\Users\gogam\Documents\NotFlappyBird\NotFlappyBirdWithGDIDrawer\NotFlappyBird\NotFlappyBird\obj\Debug\NotFlappyBird.exe
+C:\Users\gogam\Documents\NotFlappyBird\NotFlappyBirdWithGDIDrawer\NotFlappyBird\NotFlappyBird\obj\Debug\NotFlappyBird.pdb

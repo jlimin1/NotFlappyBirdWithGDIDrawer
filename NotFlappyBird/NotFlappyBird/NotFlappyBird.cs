@@ -35,6 +35,9 @@ namespace NotFlappyBird
             InitializeComponent();
         }
 
-
+        private void UI_Start_Btn_Click(object sender, EventArgs e)
+        {
+            CDrawer canvas = new CDrawer(800, 600, false, true);
+        }
     }
 }

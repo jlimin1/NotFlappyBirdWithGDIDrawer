@@ -28,8 +28,10 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.UI_Start_Btn = new System.Windows.Forms.Button();
             this.UI_Scores = new System.Windows.Forms.ListBox();
+            this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.SuspendLayout();
             // 
             // UI_Start_Btn
@@ -41,6 +43,7 @@
             this.UI_Start_Btn.TabIndex = 0;
             this.UI_Start_Btn.Text = "Start";
             this.UI_Start_Btn.UseVisualStyleBackColor = true;
+            this.UI_Start_Btn.Click += new System.EventHandler(this.UI_Start_Btn_Click);
             // 
             // UI_Scores
             // 
@@ -49,6 +52,10 @@
             this.UI_Scores.Name = "UI_Scores";
             this.UI_Scores.Size = new System.Drawing.Size(245, 225);
             this.UI_Scores.TabIndex = 1;
+            // 
+            // timer1
+            // 
+            this.timer1.Interval = 15;
             // 
             // NotFlappyBird
             // 
@@ -67,6 +74,7 @@
 
         private System.Windows.Forms.Button UI_Start_Btn;
         private System.Windows.Forms.ListBox UI_Scores;
+        private System.Windows.Forms.Timer timer1;
     }
 }
 
